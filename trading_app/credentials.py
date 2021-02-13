@@ -1,5 +1,5 @@
-API_KEY = "PK0T31KP7M35R96A2UNQ"
-API_SECRET_KEY = "RrzSTr2qeJmok28Hanip2RhsmzwPzivv8BJSD1cW"
+API_KEY = ""
+API_SECRET_KEY = ""
 
 ENDPOINT_URL = "https://paper-api.alpaca.markets"
 ACCOUNT_URL = "{}/v2/account".format(ENDPOINT_URL)
